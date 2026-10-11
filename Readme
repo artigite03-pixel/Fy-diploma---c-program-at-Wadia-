@@ -1,0 +1,13 @@
+read# FY Diploma - C Programs
+
+This repository contains basic C programs for first year.
+
+- hello_world.c
+- addition.c
+- even_odd.c
+- simple_calculator.c
+- area_of_circle.c
+- factorial.c
+
+Language: C
+IDE: Turbo C / GCC / VS Code
